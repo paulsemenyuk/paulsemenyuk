@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ## 💻 My Teck and Data Stack:
+  ## 💻 My Tech and Data Stack:
  <div style="display: flex; align-items: center; gap: 10px;">
   <!-- Existing icons -->
   <img src="https://skillicons.dev/icons?i=apple,postgres,mysql,sqlite,gcp,github,docker,vscode,vim" alt="Skills Icons" />
